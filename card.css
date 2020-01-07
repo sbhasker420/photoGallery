@@ -1,0 +1,18 @@
+.card {
+  width: inherit;
+  border: 1px solid darkolivegreen;
+  background-color: #ffe6e6;
+}
+.card:hover {
+  background-color: rgb(11, 172, 164);
+}
+.cardImage {
+  width: 40%;
+  height: 100%;
+  float: left;
+}
+.cardDetail {
+  width: 50%;
+  height: 100%;
+  float: left;
+}
